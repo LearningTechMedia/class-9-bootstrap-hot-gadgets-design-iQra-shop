@@ -1,0 +1,54 @@
+@media (max-width: 1199px){
+
+}
+@media (max-width: 991px){
+	
+}
+@media (max-width: 765px){
+	
+}
+@media (max-width: 575px){
+	.carousel-inner {
+    
+    width: 60%;
+    
+}
+.logo {
+    background: #0e4159 !important;
+    border: 2px solid transparent;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 8px 3px 0px 8px;
+    margin: 25px;
+}
+.navbar {
+    margin-top: 0px !important; 
+}
+
+.feature-post {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 0px 50px;
+}
+.col-12 ul li {
+    margin: auto;
+}
+.category-section {
+    padding: 0px 25px;
+}
+.col-category h3 {
+    
+    font-size: 20px;
+}
+.col-category a {
+    display: block;
+    padding: 15px 0px;
+    margin: 15px 8px;
+    border: 2px solid transparent;
+    box-shadow: 1px 1px 15px #0e41593d;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+
+}
